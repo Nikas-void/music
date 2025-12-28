@@ -41,7 +41,7 @@ import VolumeControl from "./VolumeControl";
 
 const MusicPlayer = () => {
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50">
+    <div className="fixed bottom-0 bg-black left-0 right-0 z-50">
       <div className="absolute inset-0 bg-gradient-to-t from-background via-background/95 to-transparent pointer-events-none h-8 -top-8" />
 
       <div className="glass-strong border-t border-border/50 px-2 md:px-4 py-3">
